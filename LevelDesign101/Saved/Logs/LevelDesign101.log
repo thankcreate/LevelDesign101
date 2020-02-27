@@ -8159,3 +8159,1147 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.02.27-01.07.57:239][414]AssetCheck: New page: Asset Save: multiple assets
 [2020.02.27-01.07.57:239][414]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
 [2020.02.27-01.07.57:239][414]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.09.13:762][326]LogEditorViewport: Clicking Background
+[2020.02.27-01.09.16:979][519]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush6)
+[2020.02.27-01.09.20:629][737]LogEditorViewport: Clicking Background
+[2020.02.27-01.09.35:948][649]LogEditorViewport: Clicking Background
+[2020.02.27-01.17.00:582][276]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.27-01.17.01:230][277]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.02.27-01.17.57:110][619]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2020.02.27-01.17.57:112][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Autosaves/Game/Levels/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.02.27-01.17.57:186][619]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_Auto3D3A4B27B40105C11D8904BAB7052E381.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Autosaves/Game/Levels/Main_Auto3.umap'
+[2020.02.27-01.17.57:188][619]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/Main' took 0.117
+[2020.02.27-01.17.57:188][619]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.117
+[2020.02.27-01.17.57:188][619]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/RedStaris] ([1] browsable assets)...
+[2020.02.27-01.17.57:188][619]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/RedStaris]
+[2020.02.27-01.17.57:188][619]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/RedStaris" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Autosaves/Game/Materials/RedStaris_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2020.02.27-01.17.57:203][619]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/RedStaris_Auto3534A4FF54052EF664310E69367376055.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Autosaves/Game/Materials/RedStaris_Auto3.uasset'
+[2020.02.27-01.17.57:204][619]LogFileHelpers: Auto-saving content packages took 0.016
+[2020.02.27-01.18.58:438][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.18.58:470][287]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2020.02.27-01.18.58:536][287]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main15772C6B488017EB7FA1298AA4959E9B.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.18.58:568][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.18.58:801][287]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltDataB004EA3844223BD4DA799EBBD64C4D3C.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.18.58:827][287]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.18.58:827][287]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.18.58:827][287]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.19.14:736][240]LogEditorViewport: Clicking on Actor (LMB): Brush (Road3)
+[2020.02.27-01.19.22:549][687]LogEditorViewport: Clicking Background
+[2020.02.27-01.19.47:296][168]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.02.27-01.20.12:289][637]LogEditorViewport: Clicking Background
+[2020.02.27-01.20.26:236][ 90]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.21.15:101][885]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.21.19:141][ 16]LogSlate: Window 'Extrude Coordinates Mode Warning' being destroyed
+[2020.02.27-01.21.35:517][972]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.21.40:617][275]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.21.41:365][318]Cmd: POLY SELECT MEMORY UNION
+[2020.02.27-01.21.45:163][541]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.21.46:233][602]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.21.49:339][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.21.52:513][972]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.21.59:502][384]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.22.00:903][463]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.22.07:777][867]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.07:777][867]LogEditorTransaction: Undo Scale Actors
+[2020.02.27-01.22.07:801][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24208' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:801][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24208.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:801][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24209' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:801][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24209.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:801][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24210' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:801][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24210.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:801][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24211' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24211.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24212' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24212.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24213' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24213.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24214' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24214.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24215' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24215.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:802][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24216' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24216.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24217' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24217.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24218' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24218.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24219' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24219.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24220' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24220.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24221' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:803][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24221.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24222' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24222.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24223' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24223.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24224' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24224.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24225' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24225.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:804][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24226' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24226.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24227' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24227.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24228' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24228.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24229' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24229.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24230' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24230.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24231' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:805][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24231.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:806][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24232' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:806][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24232.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:806][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24233' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:806][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24233.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:809][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24234' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:809][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24234.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:809][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24235' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:809][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24235.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:809][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24236' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:809][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24236.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:809][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24237' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:809][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24237.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24238' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24238.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24239' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24239.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24240' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24240.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24241' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24241.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24242' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:810][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24242.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24243' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24243.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24244' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24244.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24245' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24245.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24246' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24246.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:811][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24247' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24247.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24248' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24248.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24249' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24249.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24250' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24250.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24251' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:812][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24251.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24252' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24252.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24253' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24253.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24254' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24254.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24255' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24255.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24256' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:813][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24256.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:814][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24257' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:814][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24257.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:814][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24258' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:814][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24258.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:814][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24259' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:814][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24259.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:814][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24260' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:814][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24260.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24261' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24261.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24262' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24262.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24263' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24263.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24264' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24264.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24265' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:815][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24265.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24266' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24266.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24267' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24267.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24268' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24268.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24269' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24269.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24270' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:816][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24270.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24271' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24271.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24272' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24272.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24273' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24273.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24274' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24274.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24275' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:817][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24275.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24276' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24276.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24277' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24277.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24278' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24278.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24279' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24279.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24280' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:818][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24280.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24281' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24281.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24282' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24282.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24283' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24283.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24284' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24284.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24285' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:819][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24285.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24286' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24286.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24287' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24287.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24288' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24288.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24289' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24289.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:820][867]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/Levels/Main.Main:PersistentLevel.ModelComponent_24290' invalid (5449 verts, 0 indices).
+[2020.02.27-01.22.07:821][867]LogPhysics: Warning: Attempt to build physics data for /Game/Levels/Main.Main:PersistentLevel.ModelComponent_24290.BodySetup_0 when we are unable to.
+[2020.02.27-01.22.07:881][867]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.07:896][867]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.07:906][867]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.22.07:906][867]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.22.07:906][867]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.02.27-01.22.07:906][867]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.27-01.22.07:906][867]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.27-01.22.07:906][867]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.27-01.22.07:906][867]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.27-01.22.07:906][867]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.22.08:697][896]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.02.27-01.22.08:931][910]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.02.27-01.22.09:355][935]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2020.02.27-01.22.09:377][936]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.22.09:390][937]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.22.09:440][940]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.02.27-01.22.09:503][944]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.02.27-01.22.09:588][949]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.02.27-01.22.09:998][961]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.02.27-01.22.10:019][962]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.10:019][962]LogEditorTransaction: Undo Scale Actors
+[2020.02.27-01.22.10:072][962]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.02.27-01.22.10:099][962]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.02.27-01.22.10:205][962]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.10:244][962]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.10:506][971]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.02.27-01.22.10:624][978]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2020.02.27-01.22.10:995][998]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.02.27-01.22.11:164][  8]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.02.27-01.22.11:216][ 11]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.02.27-01.22.11:298][ 16]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 17
+[2020.02.27-01.22.11:697][ 36]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 16
+[2020.02.27-01.22.11:817][ 43]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 15
+[2020.02.27-01.22.11:867][ 46]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 14
+[2020.02.27-01.22.12:086][ 59]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 13
+[2020.02.27-01.22.12:103][ 60]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2020.02.27-01.22.12:488][ 80]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.02.27-01.22.12:594][ 86]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.22.12:738][ 95]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.02.27-01.22.12:755][ 96]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 8
+[2020.02.27-01.22.12:858][102]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.02.27-01.22.12:942][107]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.02.27-01.22.13:107][116]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 5
+[2020.02.27-01.22.13:284][126]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.02.27-01.22.13:305][127]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.22.13:305][127]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.22.13:305][127]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.22.13:305][127]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.22.13:305][127]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.22.13:574][142]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.02.27-01.22.13:724][151]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2020.02.27-01.22.13:757][153]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 1
+[2020.02.27-01.22.14:752][210]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.22.14:752][210]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.22.14:752][210]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.22.14:752][210]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.22.14:752][210]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.22.24:629][801]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.24:630][801]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.24:655][801]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.24:670][801]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.24:679][801]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.22.24:679][801]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.22.24:679][801]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.02.27-01.22.24:679][801]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.27-01.22.24:679][801]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.27-01.22.24:679][801]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.27-01.22.24:679][801]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.27-01.22.24:679][801]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.22.24:982][808]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.24:982][808]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.25:022][808]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.25:055][808]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.25:455][823]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.02.27-01.22.25:681][836]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.25:681][836]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.25:746][836]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.25:767][836]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.02.27-01.22.25:785][836]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.02.27-01.22.25:785][836]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.02.27-01.22.25:785][836]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.25:970][839]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2020.02.27-01.22.26:064][845]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.02.27-01.22.26:216][854]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.02.27-01.22.26:233][855]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 17
+[2020.02.27-01.22.26:374][863]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.26:374][863]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.26:437][863]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.26:468][863]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.26:807][875]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.26:808][875]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.26:849][875]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.26:889][875]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.26:919][875]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2020.02.27-01.22.27:033][876]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.02.27-01.22.27:057][877]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 20
+[2020.02.27-01.22.27:417][897]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.27:417][897]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.27:481][897]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 19
+[2020.02.27-01.22.27:493][897]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.27:532][897]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.27:611][897]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2020.02.27-01.22.27:735][900]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 21
+[2020.02.27-01.22.27:856][907]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 20
+[2020.02.27-01.22.27:887][909]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 19
+[2020.02.27-01.22.28:058][919]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.28:058][919]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.27-01.22.28:107][919]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.28:130][919]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2020.02.27-01.22.28:145][919]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.28:446][931]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.28:446][931]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.28:493][931]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.28:532][931]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.28:730][934]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.02.27-01.22.28:922][945]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.02.27-01.22.28:940][946]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 20
+[2020.02.27-01.22.29:006][949]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 19
+[2020.02.27-01.22.29:113][954]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.29:113][954]LogEditorTransaction: Undo Clicking on Actors (context menu)
+[2020.02.27-01.22.29:186][954]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.29:228][954]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.29:252][954]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.02.27-01.22.29:408][955]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.02.27-01.22.29:600][965]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.29:600][965]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.29:648][965]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.29:690][965]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.29:841][966]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.02.27-01.22.29:983][973]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 21
+[2020.02.27-01.22.30:001][974]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.30:002][974]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.30:069][974]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.30:104][974]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.30:353][978]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.30:353][978]LogEditorTransaction: Undo Set Material
+[2020.02.27-01.22.30:459][978]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.30:511][978]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.30:643][979]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2020.02.27-01.22.30:827][986]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.30:828][986]LogEditorTransaction: Undo Select Matching Brush
+[2020.02.27-01.22.30:903][986]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 21
+[2020.02.27-01.22.30:903][986]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2020.02.27-01.22.30:920][986]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.30:967][986]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.31:104][987]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2020.02.27-01.22.31:118][987]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.02.27-01.22.31:391][  2]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.02.27-01.22.31:494][  8]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.31:494][  8]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.31:542][  8]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.31:577][  8]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.32:017][ 24]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.02.27-01.22.32:139][ 30]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.32:140][ 30]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.32:180][ 30]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.32:206][ 30]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2020.02.27-01.22.32:218][ 30]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.32:533][ 42]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.02.27-01.22.32:614][ 46]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.32:614][ 46]LogEditorTransaction: Undo Union Selection Set
+[2020.02.27-01.22.32:670][ 46]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.02.27-01.22.32:670][ 46]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 20
+[2020.02.27-01.22.32:682][ 46]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.32:716][ 46]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.32:864][ 47]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 22
+[2020.02.27-01.22.33:265][ 68]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 21
+[2020.02.27-01.22.33:293][ 70]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2020.02.27-01.22.33:883][ 96]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 19
+[2020.02.27-01.22.34:005][101]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 18
+[2020.02.27-01.22.34:021][102]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 17
+[2020.02.27-01.22.34:127][108]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.02.27-01.22.34:445][126]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 15
+[2020.02.27-01.22.34:755][144]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2020.02.27-01.22.34:862][150]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 13
+[2020.02.27-01.22.34:910][153]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.02.27-01.22.35:413][181]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.02.27-01.22.35:460][184]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2020.02.27-01.22.35:477][185]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 9
+[2020.02.27-01.22.35:477][185]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.02.27-01.22.35:904][209]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 7
+[2020.02.27-01.22.36:055][218]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2020.02.27-01.22.36:073][219]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.02.27-01.22.36:524][232]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.02.27-01.22.36:637][233]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.22.36:638][233]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.22.36:638][233]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.22.36:638][233]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.22.36:638][233]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.22.36:961][241]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2020.02.27-01.22.37:020][242]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.02.27-01.22.37:020][242]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2020.02.27-01.22.38:890][278]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.22.38:890][278]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.22.38:890][278]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.22.38:890][278]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.22.38:890][278]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.22.47:548][607]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.22.50:515][781]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.50:515][781]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.50:533][781]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.50:543][781]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.22.50:543][781]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.22.50:543][781]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.02.27-01.22.50:543][781]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.27-01.22.50:543][781]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.27-01.22.50:543][781]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.27-01.22.50:543][781]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.27-01.22.50:543][781]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.22.50:547][781]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.50:737][784]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.50:737][784]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.50:807][784]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.50:840][784]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.51:002][785]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.51:002][785]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.51:069][785]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.51:105][785]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.51:280][786]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.51:280][786]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.51:331][786]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 11
+[2020.02.27-01.22.51:332][786]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.51:368][786]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.51:442][786]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 22
+[2020.02.27-01.22.51:504][787]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.51:504][787]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.51:577][787]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.51:617][787]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.51:745][788]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 22
+[2020.02.27-01.22.51:746][788]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.51:746][788]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.51:799][788]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.51:835][788]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.51:855][788]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.02.27-01.22.51:981][789]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.51:981][789]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.52:018][789]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.52:049][789]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.52:143][790]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.52:143][790]LogEditorTransaction: Undo Scale Actors
+[2020.02.27-01.22.52:202][790]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 22
+[2020.02.27-01.22.52:202][790]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 21
+[2020.02.27-01.22.52:315][790]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.52:347][790]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.52:375][790]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.02.27-01.22.52:377][790]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.52:377][790]LogEditorTransaction: Undo Scale Actors
+[2020.02.27-01.22.52:550][790]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.52:572][790]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 22
+[2020.02.27-01.22.52:583][790]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.52:610][790]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.52:610][790]LogEditorTransaction: Undo Scale Actors
+[2020.02.27-01.22.52:785][790]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.52:825][790]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.52:847][790]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.52:847][790]LogEditorTransaction: Undo Move Actors
+[2020.02.27-01.22.52:919][790]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.02.27-01.22.52:988][790]LogGeometryMode: Warning: Unable to find 1 Poly(s) in new BSP
+[2020.02.27-01.22.52:988][790]LogGeometryMode: Warning: Unable to resolve BoxBrush8 Brush in new BSP, see above
+[2020.02.27-01.22.52:988][790]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.27-01.22.53:032][790]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.02.27-01.22.53:032][790]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.53:072][790]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.53:101][790]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.53:101][790]LogEditorTransaction: Undo Modifier [Edit]
+[2020.02.27-01.22.53:148][790]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.53:180][790]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.53:203][790]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.53:203][790]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.53:248][790]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.53:272][790]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 11
+[2020.02.27-01.22.53:284][790]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.53:464][791]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.53:464][791]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.53:553][791]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 11
+[2020.02.27-01.22.53:554][791]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.53:588][791]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.53:613][791]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.53:613][791]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.53:686][791]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.53:730][791]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.22.53:730][791]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.53:867][792]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.53:867][792]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.53:959][792]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.54:000][792]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.54:025][792]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.54:025][792]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.54:068][792]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.54:095][792]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 11
+[2020.02.27-01.22.54:113][792]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.54:256][793]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.54:256][793]LogEditorTransaction: Undo Clicking on Actors
+[2020.02.27-01.22.54:322][793]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 22
+[2020.02.27-01.22.54:322][793]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 21
+[2020.02.27-01.22.54:334][793]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.54:367][793]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.54:526][794]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.54:526][794]LogEditorTransaction: Undo Select Brush Surface
+[2020.02.27-01.22.54:564][794]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.54:602][794]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.54:637][794]Cmd: TRANSACTION UNDO
+[2020.02.27-01.22.54:638][794]LogEditorTransaction: Undo Clicking Background
+[2020.02.27-01.22.54:671][794]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.22.54:692][794]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.02.27-01.22.54:705][794]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.22.54:908][797]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 22
+[2020.02.27-01.22.55:045][804]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 21
+[2020.02.27-01.22.55:423][825]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.02.27-01.22.55:509][830]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 19
+[2020.02.27-01.22.55:689][838]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 18
+[2020.02.27-01.22.56:036][857]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.22.56:119][858]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 17
+[2020.02.27-01.22.56:136][859]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 16
+[2020.02.27-01.22.56:502][875]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 15
+[2020.02.27-01.22.56:726][885]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 14
+[2020.02.27-01.22.56:872][890]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 13
+[2020.02.27-01.22.57:287][912]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.02.27-01.22.57:305][913]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.22.57:305][913]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.02.27-01.22.57:645][932]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.02.27-01.22.57:662][933]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2020.02.27-01.22.58:060][955]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.02.27-01.22.58:116][958]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 6
+[2020.02.27-01.22.58:146][960]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.02.27-01.22.58:708][989]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 4
+[2020.02.27-01.22.58:722][990]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.02.27-01.22.58:755][991]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.22.58:755][991]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.22.58:755][991]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.22.58:755][991]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.22.58:755][991]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.22.59:015][  5]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 2
+[2020.02.27-01.22.59:032][  6]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 1
+[2020.02.27-01.23.00:070][ 63]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.23.00:070][ 63]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.23.00:070][ 63]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.23.00:070][ 63]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.23.00:070][ 63]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.23.36:230][740]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.23.41:230][922]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.23.50:503][474]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.23.52:419][587]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.23.54:390][702]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.23.58:912][970]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.23.59:675][ 11]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.24.01:629][122]Cmd: EDIT COPY
+[2020.02.27-01.24.01:833][134]Cmd: EDIT PASTE
+[2020.02.27-01.24.01:842][134]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Materials/Ad.Ad or PreviewMaterial /Engine/Transient.Ad
+[2020.02.27-01.24.07:529][453]Cmd: TRANSACTION UNDO
+[2020.02.27-01.24.07:529][453]LogEditorTransaction: Undo Scale Actors
+[2020.02.27-01.24.07:616][453]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.24.07:631][453]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.24.07:631][453]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.24.07:631][453]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.02.27-01.24.07:631][453]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.27-01.24.07:631][453]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.27-01.24.07:631][453]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.27-01.24.07:631][453]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.27-01.24.07:631][453]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.24.07:631][453]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.24.08:489][490]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.02.27-01.24.08:889][513]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.02.27-01.24.08:906][514]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2020.02.27-01.24.08:923][515]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.24.09:023][521]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 10
+[2020.02.27-01.24.09:091][525]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 9
+[2020.02.27-01.24.09:318][538]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2020.02.27-01.24.09:334][539]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 7
+[2020.02.27-01.24.09:351][540]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.02.27-01.24.09:505][549]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 5
+[2020.02.27-01.24.09:759][561]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2020.02.27-01.24.09:760][561]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.24.09:760][561]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.24.09:760][561]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.24.09:760][561]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.24.09:760][561]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.24.10:191][582]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 3
+[2020.02.27-01.24.10:462][598]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 2
+[2020.02.27-01.24.10:563][603]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.27-01.24.11:333][646]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.24.11:333][646]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.24.11:333][646]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.24.11:333][646]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.24.11:333][646]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.24.14:349][825]LogEditorViewport: Clicking Background
+[2020.02.27-01.24.14:950][861]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2020.02.27-01.25.03:979][782]LogEditorViewport: Clicking Background
+[2020.02.27-01.25.04:329][803]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2020.02.27-01.25.12:968][315]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.25.27:743][183]LogEditorViewport: Clicking Background
+[2020.02.27-01.25.28:643][237]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush9)
+[2020.02.27-01.25.40:670][942]LogEditorViewport: Clicking Background
+[2020.02.27-01.26.00:355][662]Cmd: EDIT COPY
+[2020.02.27-01.26.00:621][678]Cmd: EDIT PASTE
+[2020.02.27-01.26.00:632][678]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Materials/Ad.Ad or PreviewMaterial /Engine/Transient.Ad
+[2020.02.27-01.26.10:497][248]LogEditorViewport: Clicking Background
+[2020.02.27-01.26.11:048][281]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2020.02.27-01.26.13:599][432]LogEditorViewport: Clicking Background
+[2020.02.27-01.26.13:935][452]LogEditorViewport: Clicking Background
+[2020.02.27-01.26.14:285][473]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2020.02.27-01.26.26:610][195]LogEditorViewport: Clicking Background
+[2020.02.27-01.26.39:020][742]LogEditorViewport: Clicking Background
+[2020.02.27-01.26.44:221][ 54]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush10)
+[2020.02.27-01.26.45:863][151]Cmd: EDIT COPY
+[2020.02.27-01.26.46:097][165]Cmd: EDIT PASTE
+[2020.02.27-01.26.46:104][165]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Materials/Ad.Ad or PreviewMaterial /Engine/Transient.Ad
+[2020.02.27-01.27.15:562][510]LogEditorViewport: Clicking Background
+[2020.02.27-01.27.16:629][574]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2020.02.27-01.27.22:203][736]Cmd: EDIT COPY
+[2020.02.27-01.27.22:407][748]Cmd: EDIT PASTE
+[2020.02.27-01.27.22:412][748]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Materials/Ad.Ad or PreviewMaterial /Engine/Transient.Ad
+[2020.02.27-01.27.26:658][981]Cmd: TRANSACTION UNDO
+[2020.02.27-01.27.26:658][981]LogEditorTransaction: Undo Move Actors
+[2020.02.27-01.27.26:750][981]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.27.26:767][981]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.27.26:777][981]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.27.26:777][981]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.27.26:777][981]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.02.27-01.27.26:777][981]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.27-01.27.26:777][981]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.27-01.27.26:777][981]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.27-01.27.26:777][981]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.27-01.27.26:777][981]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.27.27:259][998]Cmd: TRANSACTION UNDO
+[2020.02.27-01.27.27:259][998]LogEditorTransaction: Undo Paste
+[2020.02.27-01.27.27:405][998]LogActorComponent: RegisterComponentWithWorld: (/Game/Levels/Main.Main:PersistentLevel.BoxBrush11_42.BrushComponent0) Trying to register component with IsPendingKill() == true. Aborting.
+[2020.02.27-01.27.27:437][998]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.27.27:480][998]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.27.27:873][ 14]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 22
+[2020.02.27-01.27.28:015][ 22]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 21
+[2020.02.27-01.27.28:191][ 32]LogEditorViewport: Clicking Background
+[2020.02.27-01.27.28:204][ 32]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 20
+[2020.02.27-01.27.28:219][ 33]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 19
+[2020.02.27-01.27.28:372][ 42]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 18
+[2020.02.27-01.27.28:476][ 48]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 17
+[2020.02.27-01.27.28:877][ 71]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 16
+[2020.02.27-01.27.28:877][ 71]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 15
+[2020.02.27-01.27.29:479][105]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 14
+[2020.02.27-01.27.29:489][105]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.02.27-01.27.29:649][115]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.02.27-01.27.29:668][116]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 11
+[2020.02.27-01.27.29:751][121]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2020.02.27-01.27.29:821][125]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 9
+[2020.02.27-01.27.30:385][157]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.02.27-01.27.30:385][157]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.02.27-01.27.30:581][169]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.02.27-01.27.30:589][169]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 5
+[2020.02.27-01.27.31:088][198]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 4
+[2020.02.27-01.27.31:123][199]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.02.27-01.27.31:124][199]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.27.31:124][199]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.27.31:124][199]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.27.31:124][199]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.27.31:124][199]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.27.31:202][204]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2020.02.27-01.27.31:218][205]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 1
+[2020.02.27-01.27.32:274][267]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.27.32:275][267]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.27.32:275][267]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.27.32:275][267]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.27.32:275][267]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.27.33:841][361]Cmd: TRANSACTION UNDO
+[2020.02.27-01.27.33:841][361]LogEditorTransaction: Undo Clicking Background
+[2020.02.27-01.27.33:856][361]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.27.33:875][361]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.27.33:876][361]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.27.33:876][361]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.02.27-01.27.33:876][361]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.27-01.27.33:876][361]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.27-01.27.33:876][361]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.27-01.27.33:876][361]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.27-01.27.33:876][361]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.27.33:876][361]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.27.34:521][385]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2020.02.27-01.27.34:543][386]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 13
+[2020.02.27-01.27.34:763][399]LogEditorViewport: Clicking Background
+[2020.02.27-01.27.35:020][414]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2020.02.27-01.27.35:036][415]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 11
+[2020.02.27-01.27.35:224][426]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 10
+[2020.02.27-01.27.35:242][427]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 9
+[2020.02.27-01.27.35:306][430]LogEditorViewport: Clicking Background
+[2020.02.27-01.27.35:334][431]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 8
+[2020.02.27-01.27.35:350][432]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 7
+[2020.02.27-01.27.35:604][447]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 6
+[2020.02.27-01.27.35:660][450]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2020.02.27-01.27.35:850][456]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 5
+[2020.02.27-01.27.36:124][471]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 4
+[2020.02.27-01.27.36:272][479]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 3
+[2020.02.27-01.27.36:274][479]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.27.36:274][479]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.27.36:274][479]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.27.36:274][479]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.27.36:274][479]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.27.36:583][495]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.27-01.27.36:617][497]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 1
+[2020.02.27-01.27.37:595][553]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.27.37:595][553]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.27.37:595][553]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.27.37:595][553]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.27.37:595][553]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.27.37:828][567]Cmd: DELETE
+[2020.02.27-01.27.37:927][567]Cmd: ACTOR DELETE
+[2020.02.27-01.27.37:963][567]LogEditorActor: Deleted Actor: Brush
+[2020.02.27-01.27.38:018][567]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2020.02.27-01.27.38:096][567]LogEditorActor: Deleted 1 Actors (0.169 secs)
+[2020.02.27-01.27.38:734][605]Cmd: TRANSACTION UNDO
+[2020.02.27-01.27.38:734][605]LogEditorTransaction: Undo Delete Actors
+[2020.02.27-01.27.38:833][605]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.27.38:849][605]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.27.38:861][605]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.27.38:861][605]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.27.38:861][605]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.02.27-01.27.38:861][605]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.27-01.27.38:861][605]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.27-01.27.38:861][605]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.27-01.27.38:861][605]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.27-01.27.38:861][605]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.27.39:412][624]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.02.27-01.27.39:897][652]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.02.27-01.27.40:042][660]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 12
+[2020.02.27-01.27.40:205][669]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.02.27-01.27.40:222][670]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 10
+[2020.02.27-01.27.40:222][670]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 9
+[2020.02.27-01.27.40:255][672]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2020.02.27-01.27.40:316][675]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 7
+[2020.02.27-01.27.40:739][697]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.02.27-01.27.40:902][706]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 5
+[2020.02.27-01.27.41:033][712]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.27.41:067][713]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 3
+[2020.02.27-01.27.41:069][713]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.27.41:069][713]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.27.41:069][713]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.27.41:069][713]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.27.41:069][713]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.27.41:747][746]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 2
+[2020.02.27-01.27.41:827][750]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 1
+[2020.02.27-01.27.42:558][793]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.27.42:558][793]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.27.42:558][793]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.27.42:558][793]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.27.42:558][793]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.27.53:999][473]LogEditorViewport: Clicking Background
+[2020.02.27-01.27.55:466][561]LogEditorViewport: Clicking Background
+[2020.02.27-01.27.55:983][592]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2020.02.27-01.27.57:988][711]Cmd: EDIT COPY
+[2020.02.27-01.27.58:255][727]Cmd: EDIT PASTE
+[2020.02.27-01.27.58:261][727]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Materials/Ad.Ad or PreviewMaterial /Engine/Transient.Ad
+[2020.02.27-01.28.04:985][106]LogEditorViewport: Clicking Background
+[2020.02.27-01.28.05:568][141]LogEditorViewport: Clicking Background
+[2020.02.27-01.28.05:935][163]LogEditorViewport: Clicking Background
+[2020.02.27-01.28.06:235][181]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.28.32:908][606]LogEditorViewport: Clicking Background
+[2020.02.27-01.28.35:838][779]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.28.37:728][891]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush11)
+[2020.02.27-01.28.38:501][936]LogEditorViewport: Clicking Background
+[2020.02.27-01.28.38:819][955]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.28.43:154][203]LogEditorViewport: Clicking Background
+[2020.02.27-01.28.48:588][434]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.28.51:728][616]LogEditorViewport: Clicking Background
+[2020.02.27-01.29.03:499][ 88]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.29.10:075][479]LogEditorViewport: Clicking Background
+[2020.02.27-01.29.45:511][581]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.29.46:595][644]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.30.05:230][754]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.30.05:757][785]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.30.08:095][922]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.30.25:806][976]Cmd: ACTOR SELECT MATCHINGMATERIAL
+[2020.02.27-01.30.27:130][ 53]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.30.31:372][299]Cmd: ACTOR SELECT MATCHINGMATERIAL
+[2020.02.27-01.30.43:575][ 23]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.30.44:762][ 89]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.30.53:991][638]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.31.18:709][109]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.31.26:254][561]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.31.27:613][639]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.31.32:470][925]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.31.34:405][ 35]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.02.27-01.31.38:482][277]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.31.40:849][414]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2020.02.27-01.31.41:989][479]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.31.44:921][647]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.32.12:104][190]LogEditorViewport: Clicking Background
+[2020.02.27-01.32.12:855][235]LogEditorViewport: Clicking Background
+[2020.02.27-01.32.13:238][258]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.32.16:562][451]LogEditorViewport: Clicking Background
+[2020.02.27-01.32.25:948][  7]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.32.34:371][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.32.34:432][509]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2020.02.27-01.32.34:518][509]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main2070AD1B47C8B346BCEA1FA9F4D18325.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.32.34:549][509]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.32.34:757][509]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltData14EF908D41E835C8006CE6841E240738.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.32.34:780][509]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.32.34:781][509]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.32.34:781][509]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.33.07:195][416]Cmd: EDIT COPY
+[2020.02.27-01.33.07:363][426]Cmd: EDIT PASTE
+[2020.02.27-01.33.07:372][426]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Materials/Ad.Ad or PreviewMaterial /Engine/Transient.Ad
+[2020.02.27-01.33.24:543][424]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.33.42:644][415]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.33.56:102][208]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.34.01:105][505]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.34.03:089][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.34.03:126][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2020.02.27-01.34.03:217][621]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/MainFC6459CD42123C2DC00F6CB4665F60FA.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.34.03:244][621]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.34.03:433][621]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltData665FAF0148ECDF543819FCA52AF533F4.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.34.03:459][621]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.34.03:459][621]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.34.03:459][621]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.34.13:401][217]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.27-01.34.13:414][217]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-01.34.13:414][217]PIE: New page: PIE session: Main (Feb 26, 2020, 3:34:13 PM)
+[2020.02.27-01.34.13:415][217]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2020.02.27-01.34.13:459][217]LogPlayLevel: PIE: StaticDuplicateObject took: (0.043879s)
+[2020.02.27-01.34.13:459][217]LogAIModule: Creating AISystem for world Main
+[2020.02.27-01.34.13:460][217]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2020.02.27-01.34.13:460][217]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.045043s)
+[2020.02.27-01.34.13:502][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2020.02.27-01.34.13:507][217]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-01.34.13:507][217]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-01.34.13:507][217]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-01.34.13:507][217]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-01.34.13:507][217]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-01.34.13:507][217]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-01.34.13:507][217]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-01.34.13:507][217]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-01.34.13:508][217]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-01.34.13:508][217]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: Channel Order:
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-01.34.13:524][217]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-01.34.13:577][217]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-01.34.13:579][217]LogInit: FAudioDevice initialized.
+[2020.02.27-01.34.13:613][217]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-01.34.13:613][217]LogLoad: Game class is 'MainMode_C'
+[2020.02.27-01.34.13:617][217]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.02.26-20.34.13
+[2020.02.27-01.34.13:618][217]LogWorld: Bringing up level for play took: 0.003361
+[2020.02.27-01.34.13:618][217]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2020.02.27-01.34.13:622][217]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Main 0.456
+[2020.02.27-01.34.20:325][616]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.34.20:325][616]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.34.20:326][616]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-01.34.20:326][616]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2020.02.27-01.34.20:335][616]LogSlate: Window 'LevelDesign101 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.27-01.34.20:344][616]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.34.20:344][616]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-01.34.20:345][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-01.34.20:354][616]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-01.34.20:358][616]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-01.34.20:385][616]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.34.20:392][616]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2020.02.27-01.34.20:428][618]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2020.02.27-01.34.24:429][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.34.24:459][857]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2020.02.27-01.34.24:527][857]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main27C777164E4BD65CBB2B2E890A9164FA.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.34.24:549][857]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.34.24:734][857]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltDataA72847F24528C36D96C60B805E97E0B2.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.34.24:758][857]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.34.24:758][857]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.34.24:758][857]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.34.40:933][572]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.34.41:592][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.34.41:626][609]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2020.02.27-01.34.41:696][609]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main09F8DB3D4AE1B404DAE745880557233D.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.34.41:720][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.34.41:907][609]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltData9F9DAE4C4576086D5ABD34904EE25236.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.34.41:930][609]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.34.41:930][609]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.34.41:930][609]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.34.42:670][651]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.34.44:403][752]Cmd: EDIT COPY
+[2020.02.27-01.34.44:572][762]Cmd: EDIT PASTE
+[2020.02.27-01.34.44:584][762]LogUObjectHash: Warning: Ambiguous search, could be Material /Game/Materials/Ad.Ad or PreviewMaterial /Engine/Transient.Ad
+[2020.02.27-01.34.53:162][262]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush14)
+[2020.02.27-01.35.18:341][745]LogEditorViewport: Clicking on Actor (LMB): Brush (Road3)
+[2020.02.27-01.35.18:341][745]LogGeometryMode: Warning: Unable to find Road3 Brush(s) in new BSP
+[2020.02.27-01.35.18:341][745]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.27-01.35.18:843][774]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush14)
+[2020.02.27-01.35.21:569][931]Cmd: TRANSACTION UNDO
+[2020.02.27-01.35.21:569][931]LogEditorTransaction: Undo Move Actors
+[2020.02.27-01.35.21:648][931]LogGeometryMode: Warning: Unable to find 2 Vertex(s) in new BSP
+[2020.02.27-01.35.21:648][931]LogGeometryMode: Warning: Unable to resolve BoxBrush14 Brush in new BSP, see above
+[2020.02.27-01.35.21:648][931]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.02.27-01.35.21:669][931]LogMaterial: Display: Missing cached shader map for material Ad, compiling. 
+[2020.02.27-01.35.21:684][931]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 11
+[2020.02.27-01.35.21:684][931]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2020.02.27-01.35.21:684][931]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 9
+[2020.02.27-01.35.21:684][931]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2020.02.27-01.35.21:684][931]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 7
+[2020.02.27-01.35.21:684][931]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 6
+[2020.02.27-01.35.21:684][931]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 5
+[2020.02.27-01.35.21:684][931]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 4
+[2020.02.27-01.35.21:684][931]LogMaterial: Display: Missing cached shader map for material RedStaris, compiling. 
+[2020.02.27-01.35.22:517][963]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 14
+[2020.02.27-01.35.22:552][965]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 13
+[2020.02.27-01.35.22:943][987]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 12
+[2020.02.27-01.35.23:117][997]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 11
+[2020.02.27-01.35.23:117][997]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 10
+[2020.02.27-01.35.23:185][  1]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 9
+[2020.02.27-01.35.23:202][  2]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 8
+[2020.02.27-01.35.23:301][  8]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 7
+[2020.02.27-01.35.23:523][ 21]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2020.02.27-01.35.23:749][ 34]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2020.02.27-01.35.23:930][ 41]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2020.02.27-01.35.23:971][ 42]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.35.23:971][ 42]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.35.23:971][ 42]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.35.23:971][ 42]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.35.23:971][ 42]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.35.24:266][ 56]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 3
+[2020.02.27-01.35.24:683][ 77]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 2
+[2020.02.27-01.35.24:777][ 82]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 1
+[2020.02.27-01.35.25:815][130]MaterialEditorStats: Base pass shader: 119 instructions
+[2020.02.27-01.35.25:815][130]MaterialEditorStats: Base pass shader with Surface Lightmap: 146 instructions
+[2020.02.27-01.35.25:815][130]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2020.02.27-01.35.25:815][130]MaterialEditorStats: Base pass vertex shader: 40 instructions
+[2020.02.27-01.35.25:815][130]MaterialEditorStats: Texture samplers: 2/16
+[2020.02.27-01.35.39:188][907]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.35.40:593][990]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.27-01.35.40:608][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-01.35.40:608][990]PIE: New page: PIE session: Main (Feb 26, 2020, 3:35:40 PM)
+[2020.02.27-01.35.40:608][990]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2020.02.27-01.35.40:649][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040237s)
+[2020.02.27-01.35.40:649][990]LogAIModule: Creating AISystem for world Main
+[2020.02.27-01.35.40:649][990]LogPlayLevel: PIE: World Init took: (0.000857s)
+[2020.02.27-01.35.40:650][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.041324s)
+[2020.02.27-01.35.40:683][990]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2020.02.27-01.35.40:689][990]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-01.35.40:689][990]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-01.35.40:689][990]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-01.35.40:689][990]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-01.35.40:689][990]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-01.35.40:689][990]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-01.35.40:689][990]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-01.35.40:689][990]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-01.35.40:689][990]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-01.35.40:689][990]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: Channel Order:
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-01.35.40:703][990]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-01.35.40:754][990]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-01.35.40:756][990]LogInit: FAudioDevice initialized.
+[2020.02.27-01.35.40:790][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-01.35.40:790][990]LogLoad: Game class is 'MainMode_C'
+[2020.02.27-01.35.40:794][990]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.02.26-20.35.40
+[2020.02.27-01.35.40:794][990]LogWorld: Bringing up level for play took: 0.003168
+[2020.02.27-01.35.40:795][990]LogOnline: OSS: Creating online subsystem instance for: :Context_65
+[2020.02.27-01.35.40:798][990]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Main -0.368
+[2020.02.27-01.35.43:267][136]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.35.43:267][136]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.35.43:267][136]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-01.35.43:267][136]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2020.02.27-01.35.43:276][136]LogSlate: Window 'LevelDesign101 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.27-01.35.43:284][136]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.35.43:284][136]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-01.35.43:285][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-01.35.43:294][136]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-01.35.43:298][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-01.35.43:329][136]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.35.43:337][136]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2020.02.27-01.35.43:374][138]LogPlayLevel: Display: Destroying online subsystem :Context_65
+[2020.02.27-01.35.44:507][204]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.35.52:361][669]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.35.52:756][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.35.52:788][690]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.02.27-01.35.52:889][690]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main2CB3A7734A4184FB6527B1A1A55B1AE1.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.35.52:922][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.35.53:114][690]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltData3682104040E5E6D6581C1F994DAF0C11.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.35.53:138][690]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.35.53:138][690]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.35.53:138][690]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.35.53:522][713]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.27-01.35.53:534][713]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-01.35.53:535][713]PIE: New page: PIE session: Main (Feb 26, 2020, 3:35:53 PM)
+[2020.02.27-01.35.53:535][713]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2020.02.27-01.35.53:589][713]LogPlayLevel: PIE: StaticDuplicateObject took: (0.053980s)
+[2020.02.27-01.35.53:590][713]LogAIModule: Creating AISystem for world Main
+[2020.02.27-01.35.53:590][713]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2020.02.27-01.35.53:590][713]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.055581s)
+[2020.02.27-01.35.53:629][713]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2020.02.27-01.35.53:630][713]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-01.35.53:631][713]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-01.35.53:631][713]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-01.35.53:631][713]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-01.35.53:631][713]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-01.35.53:631][713]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-01.35.53:631][713]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-01.35.53:631][713]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-01.35.53:631][713]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-01.35.53:631][713]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: Channel Order:
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-01.35.53:644][713]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-01.35.53:695][713]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-01.35.53:697][713]LogInit: FAudioDevice initialized.
+[2020.02.27-01.35.53:723][713]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-01.35.53:724][713]LogLoad: Game class is 'MainMode_C'
+[2020.02.27-01.35.53:727][713]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.02.26-20.35.53
+[2020.02.27-01.35.53:727][713]LogWorld: Bringing up level for play took: 0.002605
+[2020.02.27-01.35.53:727][713]LogOnline: OSS: Creating online subsystem instance for: :Context_66
+[2020.02.27-01.35.53:731][713]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Main 0.565
+[2020.02.27-01.35.57:240][922]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.35.57:244][922]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.02.27-01.35.57:265][922]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.02.27-01.35.57:265][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-01.35.57:265][922]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2020.02.27-01.35.57:275][922]LogSlate: Window 'LevelDesign101 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.27-01.35.57:282][922]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.35.57:282][922]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-01.35.57:282][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-01.35.57:288][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-01.35.57:292][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-01.35.57:325][922]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.35.57:332][922]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.02.27-01.35.57:344][923]LogPlayLevel: Display: Destroying online subsystem :Context_66
+[2020.02.27-01.36.08:789][491]Cmd: EDIT COPY
+[2020.02.27-01.36.09:022][505]Cmd: EDIT PASTE
+[2020.02.27-01.36.21:053][195]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.36.27:435][493]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.36.47:684][184]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.36.48:788][248]Cmd: EDIT COPY
+[2020.02.27-01.36.49:005][261]Cmd: EDIT PASTE
+[2020.02.27-01.36.57:518][749]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.37.06:954][306]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.37.08:532][400]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.37.21:739][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.37.21:776][191]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2020.02.27-01.37.21:878][191]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main740DB2DB4F33241A99E8D9B6EA3927A1.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.37.21:908][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.37.22:125][191]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltData9014104641111F14598545AEEE1328C4.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.37.22:152][191]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.37.22:152][191]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.37.22:152][191]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.37.25:679][402]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2020.02.27-01.37.25:692][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.02.27-01.37.25:692][402]PIE: New page: PIE session: Main (Feb 26, 2020, 3:37:25 PM)
+[2020.02.27-01.37.25:692][402]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Main
+[2020.02.27-01.37.25:733][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.040957s)
+[2020.02.27-01.37.25:734][402]LogAIModule: Creating AISystem for world Main
+[2020.02.27-01.37.25:734][402]LogPlayLevel: PIE: World Init took: (0.000865s)
+[2020.02.27-01.37.25:734][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Main.Main to /Game/Levels/UEDPIE_0_Main.Main (0.041956s)
+[2020.02.27-01.37.25:768][402]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2020.02.27-01.37.25:773][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.02.27-01.37.25:773][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.02.27-01.37.25:773][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.02.27-01.37.25:773][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.02.27-01.37.25:773][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.02.27-01.37.25:773][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.02.27-01.37.25:773][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.02.27-01.37.25:773][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.02.27-01.37.25:774][402]LogAudio: Display: Using built-in audio occlusion.
+[2020.02.27-01.37.25:774][402]LogAudioMixer: Display: Initializing audio mixer.
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: Name: Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: Is Default: Yes
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: Sample Rate: 48000
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: Channel Count Used: 2
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: Device Channel Count: 2
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: Channel Order:
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: 0: FrontLeft
+[2020.02.27-01.37.25:787][402]LogAudioMixer: Display: 1: FrontRight
+[2020.02.27-01.37.25:839][402]LogAudioMixer: Display: Using Audio Device Speakers/Headphones (Realtek(R) Audio)
+[2020.02.27-01.37.25:841][402]LogInit: FAudioDevice initialized.
+[2020.02.27-01.37.25:874][402]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-01.37.25:874][402]LogLoad: Game class is 'MainMode_C'
+[2020.02.27-01.37.25:878][402]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Main.Main up for play (max tick rate 60) at 2020.02.26-20.37.25
+[2020.02.27-01.37.25:878][402]LogWorld: Bringing up level for play took: 0.002906
+[2020.02.27-01.37.25:878][402]LogOnline: OSS: Creating online subsystem instance for: :Context_67
+[2020.02.27-01.37.25:882][402]PIE: Play in editor start time for /Game/Levels/UEDPIE_0_Main 0.717
+[2020.02.27-01.37.35:538][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.37.35:538][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.37.35:538][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.27-01.37.35:538][979]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Main
+[2020.02.27-01.37.35:549][979]LogSlate: Window 'LevelDesign101 Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.02.27-01.37.35:557][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.37.35:557][979]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2020.02.27-01.37.35:558][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-01.37.35:566][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.02.27-01.37.35:570][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.02.27-01.37.35:602][979]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.02.27-01.37.35:611][979]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2020.02.27-01.37.35:667][981]LogPlayLevel: Display: Destroying online subsystem :Context_67
+[2020.02.27-01.38.07:621][889]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.38.08:396][933]LogEditorViewport: Clicking on Actor (double click): Brush (Box Brush12)
+[2020.02.27-01.38.10:550][ 55]LogDialogs: Warning: Suppressed: Extrude only works with Local Coordinates System
+[2020.02.27-01.38.16:032][374]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.38.30:697][242]LogEditorViewport: Clicking Background
+[2020.02.27-01.38.31:347][281]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.38.36:665][587]LogEditorViewport: Clicking Background
+[2020.02.27-01.38.41:465][875]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.38.46:112][141]LogEditorViewport: Clicking Background
+[2020.02.27-01.38.49:179][325]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.38.51:656][473]LogEditorViewport: Clicking on Actor (LMB): Brush (Box Brush12)
+[2020.02.27-01.38.54:171][617]LogEditorViewport: Clicking Background
+[2020.02.27-01.38.59:109][911]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.39.03:489][171]Cmd: POLY SELECT MATCHING BRUSH
+[2020.02.27-01.39.08:547][465]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.39.08:900][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.39.08:946][483]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2020.02.27-01.39.09:047][483]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/MainC76E68F14C7B3F3B18C577836AC8F96A.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.39.09:074][483]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.39.09:316][483]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltData8CC6021E4FFE811EA382AEA858C9AB8D.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.39.09:338][483]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.39.09:338][483]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.39.09:338][483]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
+[2020.02.27-01.39.12:223][656]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2020.02.27-01.39.12:278][659]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.27-01.39.12:815][689]LogEditorViewport: Clicking on Component (context menu): StaticMeshComponent (SkySphereMesh)
+[2020.02.27-01.39.19:179][ 69]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2020.02.27-01.43.51:461][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.02.27-01.43.51:497][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2020.02.27-01.43.51:571][780]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/MainCCD4D8C8470EFFD3755E5A9164BBA6F8.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main.umap'
+[2020.02.27-01.43.51:594][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/Main_BuiltData" FILE="D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset" SILENT=true
+[2020.02.27-01.43.51:786][780]LogSavePackage: Moving 'D:/LevelDesign/LevelDesign101/LevelDesign101/Saved/Main_BuiltData807152524A506C502BA99FB4F0D1D4B6.tmp' to 'D:/LevelDesign/LevelDesign101/LevelDesign101/Content/Levels/Main_BuiltData.uasset'
+[2020.02.27-01.43.51:806][780]AssetCheck: New page: Asset Save: multiple assets
+[2020.02.27-01.43.51:806][780]LogContentValidation: Display: Validating World /Game/Levels/Main.Main
+[2020.02.27-01.43.51:806][780]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Levels/Main_BuiltData.Main_BuiltData
